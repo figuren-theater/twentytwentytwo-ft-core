@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "customTemplates": [
+        {
+            "name": "blank",
+            "postTypes": [
+                "page",
+                "post",
+                "ft_feature"
+            ],
+            "title": "Blank"
+        }
+    ],
+    "version": 2
+}

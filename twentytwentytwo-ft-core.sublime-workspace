@@ -1,0 +1,2080 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"term_m",
+				"term_meta_key"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"sc",
+				"script_dependencies"
+			],
+			[
+				"plugin",
+				"plugin_dir_path"
+			],
+			[
+				"admin",
+				"admin_enqueue_scripts"
+			],
+			[
+				"textdoma",
+				"load_script_textdomain"
+			],
+			[
+				"loa",
+				"load_plugin_textdomain"
+			],
+			[
+				"sh",
+				"shortcode"
+			],
+			[
+				"sho",
+				"showAll"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"blo",
+				"block_name"
+			],
+			[
+				"wp_lis",
+				"wp_list_filter"
+			],
+			[
+				"old",
+				"old_tt_ids"
+			],
+			[
+				"ob",
+				"object_id"
+			],
+			[
+				"ft_",
+				"ft_production_shadow"
+			],
+			[
+				"cu",
+				"currentPost"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"tex",
+				"textAlign"
+			],
+			[
+				"dura",
+				"duration"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"dur",
+				"duration_parts"
+			],
+			[
+				"arr",
+				"array_flip"
+			],
+			[
+				"te",
+				"textAlign"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"hum",
+				"humanReadable"
+			],
+			[
+				"pos",
+				"postType"
+			],
+			[
+				"the",
+				"theatrebase"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"pa",
+				"parents"
+			],
+			[
+				"new",
+				"newquery"
+			],
+			[
+				"pare",
+				"parent_a"
+			],
+			[
+				"is_a",
+				"is_a"
+			],
+			[
+				"_",
+				"_post_parent"
+			],
+			[
+				"pac",
+				"package\t@package"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"wp--custom--ty",
+				"--wp--custom--typography--font-size--normal"
+			],
+			[
+				"wpi18",
+				"wpi18_nx\tTranslate for plural with context"
+			],
+			[
+				"wp",
+				"wpheader"
+			],
+			[
+				"phpcs",
+				"phpcs precision alignment\tGeneric.Formatting.MultipleStatementAlignment.NotSameWarning"
+			],
+			[
+				"wpcs",
+				"wpcs db call\tWordPress.DB.DirectDatabaseQuery.DirectQuery"
+			],
+			[
+				"wpi1",
+				"wpi18_ex\tTranslate with context and echo"
+			],
+			[
+				"wpp",
+				"wppara"
+			],
+			[
+				"get_blog",
+				"get_bloginfo"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"jp",
+				"jpberlin_webmail"
+			],
+			[
+				"dele",
+				"delete_option"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"get_cur",
+				"get_current_user_id"
+			],
+			[
+				"Site",
+				"SiteParts"
+			],
+			[
+				"arrfi",
+				"array_filter"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"curre",
+				"current_filter"
+			],
+			[
+				"wpse",
+				"wpseo_register_var_replacement"
+			],
+			[
+				"wp_parse",
+				"wp_parse_args"
+			],
+			[
+				"register_po",
+				"register_post_type"
+			],
+			[
+				"plug",
+				"plugin_dir_path"
+			],
+			[
+				"thea",
+				"theatrebase-production-subsites"
+			],
+			[
+				"Post",
+				"Post_Types"
+			],
+			[
+				"load_te",
+				"load_templates"
+			],
+			[
+				"fol",
+				"folder_abspath"
+			],
+			[
+				"get_post_type_",
+				"get_post_type_object"
+			],
+			[
+				"edit_po",
+				"edit_posts"
+			],
+			[
+				"PR",
+				"PROD_PT_NAME"
+			],
+			[
+				"wp_re",
+				"wp_rewrite"
+			],
+			[
+				"subs",
+				"subsite_rules"
+			],
+			[
+				"PRO",
+				"PROD_PT_SLUG"
+			],
+			[
+				"N",
+				"NAME"
+			],
+			[
+				"met",
+				"method_exists"
+			],
+			[
+				"post_",
+				"post_type"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"get_quer",
+				"get_queried_object"
+			],
+			[
+				"getpostty",
+				"get_post_type"
+			],
+			[
+				"prod",
+				"prod_pt"
+			],
+			[
+				"parse",
+				"parse_blocks"
+			],
+			[
+				"def",
+				"_default_link_cat_id"
+			],
+			[
+				"patt",
+				"patterns"
+			],
+			[
+				"block",
+				"block_patterns"
+			],
+			[
+				"cop",
+				"copyright"
+			],
+			[
+				"wp_resc",
+				"wp_register_script"
+			],
+			[
+				"get",
+				"getHostnameFromRegex"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ft",
+				"ft-network-sources"
+			],
+			[
+				"is",
+				"is_numeric"
+			],
+			[
+				"is_obj",
+				"is_object_in_term"
+			],
+			[
+				"wp_list",
+				"wp_list_pluck"
+			],
+			[
+				"link_cate",
+				"link_categories"
+			],
+			[
+				"get_the_",
+				"get_the_terms"
+			],
+			[
+				"tempora",
+				"temporary"
+			],
+			[
+				"wp_listso",
+				"wp_list_sort"
+			],
+			[
+				"prep",
+				"prepare"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"register_s",
+				"register_shortcodes"
+			],
+			[
+				"add_short",
+				"add_shortcode"
+			],
+			[
+				"_x",
+				"_x"
+			],
+			[
+				"fig",
+				"figurentheater"
+			],
+			[
+				"eve",
+				"everything"
+			],
+			[
+				"esc_ur",
+				"esc_url"
+			],
+			[
+				"PHP",
+				"PHP_URL_HOST"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"esc",
+				"esc_url"
+			],
+			[
+				"curreusec",
+				"current_user_can"
+			],
+			[
+				"post_t",
+				"post_type"
+			],
+			[
+				"post",
+				"post_content__metabox"
+			],
+			[
+				"add_meta_boxes",
+				"add_meta_boxes_<post_type>"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"colum",
+				"columns"
+			],
+			[
+				"get_curr",
+				"get_current_screen"
+			],
+			[
+				"admin_foo",
+				"admin_footer-<hook_suffix>"
+			],
+			[
+				"register",
+				"register_taxonomy"
+			],
+			[
+				"fac",
+				"facebook"
+			],
+			[
+				"emp",
+				"empty()"
+			],
+			[
+				"pre_opt",
+				"pre_option_<option>"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"metad",
+				"metadata"
+			],
+			[
+				"error",
+				"error_log()"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"get_term_b",
+				"get_term_by"
+			],
+			[
+				"wp_set_object_terms",
+				"wp_set_object_terms"
+			],
+			[
+				"if",
+				"ifelse"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"get_post_",
+				"get_post_type"
+			],
+			[
+				"post_form",
+				"post_formats"
+			],
+			[
+				"add_post_ty",
+				"add_post_type_support"
+			],
+			[
+				"is_obje",
+				"is_object_in_term"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/T/styleguide.figuren/htdocs/content/logs/php.debug.log",
+			"settings":
+			{
+				"buffer_size": 556,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/theatrebase-production-blocks.php",
+			"settings":
+			{
+				"buffer_size": 5820,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/duration/index.php",
+			"settings":
+			{
+				"buffer_size": 4517,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/duration/block.json",
+			"settings":
+			{
+				"buffer_size": 1467,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 654,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/package.json",
+			"settings":
+			{
+				"buffer_size": 1083,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"restart",
+				"Snippet: Register plural don't translate"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp",
+				"LSP: Restart Servers"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp word",
+				"Snippet: WordPress: Clear Recuring Event"
+			],
+			[
+				"snipp",
+				"Snippet: Function Signature"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"PHP Code Sniffer: Turn Execute On Save On"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"monke",
+				"PHP Namespace Monkey: Reload namespaces"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"sw",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"switc",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"codin",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"codi",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"dea",
+				"Package Control: Disable Package"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"act",
+				"Material Theme: Activate theme"
+			],
+			[
+				"blu",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"sni wo",
+				"Snippet: WordPress Enqueue Script"
+			],
+			[
+				"sni htm",
+				"Snippet: html"
+			],
+			[
+				"synt java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"sy",
+				"Set Syntax: PHP"
+			],
+			[
+				"sn",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet doc",
+				"Snippet: Insert the MIT license DocBlock"
+			],
+			[
+				"ph",
+				"Snippet: php-comment"
+			],
+			[
+				"sni wor",
+				"Snippet: WordPress: Enqueue a script"
+			],
+			[
+				"sni w",
+				"Snippet: WordPress Enqueue Script"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"sy rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"cbs",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"sy ",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn i",
+				"Set Syntax: Batch File"
+			],
+			[
+				"syn apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"sy she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syn con",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"sni cb",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"syn she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sy js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sy ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"sni cbs",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"sni c",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"snip sb",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"cb",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy php",
+				"Set Syntax: PHP"
+			],
+			[
+				"synt she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syn ",
+				"Set Syntax: Batch File"
+			],
+			[
+				"sni php",
+				"Snippet: php-comment"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sni php ",
+				"Snippet: php-comment"
+			],
+			[
+				"sni do",
+				"Snippet: Start Docblock"
+			],
+			[
+				"sni doc",
+				"Snippet: Start Docblock"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sn cb",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"cbstd",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"synt php",
+				"Set Syntax: PHP"
+			],
+			[
+				"snip cbs",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"snip cb",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"syn  php",
+				"Set Syntax: PHP"
+			],
+			[
+				"snipp cbs",
+				"Snippet: cbstdsys - MU Plugin blueprint"
+			],
+			[
+				"synta ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"toggle",
+				"View: Toggle Status Bar"
+			],
+			[
+				"snippe",
+				"Snippet: Post Template"
+			],
+			[
+				"snippet:loo",
+				"Snippet: The Loop (PHP)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: The Loop"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"tidy",
+				"Tidy PHP"
+			],
+			[
+				"tid",
+				"Tidy PHP"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 704.0
+	},
+	"console":
+	{
+		"height": 313.0,
+		"history":
+		[
+			"echo 'hhuhu'",
+			"php phpcs -i",
+			"phpcs -i",
+			"git status",
+			"phpcs -i"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/duration",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/premiere",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/targetgroup",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/duration",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/premiere",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/targetgroup",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/plugins",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/plugins/document-setting-panel",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/variations",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/variations/shadow-related-query",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/variations/shadow-terms",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/variations/subsites-query",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/utils",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/languages",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-subsites",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-subsites/inc",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-subsites/inc/Network",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-subsites/inc/Network/Blocks",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-subsites/inc/Network/Blocks/Subsite_Patterns",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-subsites/inc/Network/Post_Types",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-subsites/src",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-subsites/templates"
+	],
+	"file_history":
+	[
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/image-source-control-isc-block.php",
+		"/T/figuren/htdocs/content/themes/twentytwentytwo-ft-core/functions.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/languages/theatrebase-production-blocks-de_DE-fb2d96f59f63f326600bee91af5487db.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/duration.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/languages/theatrebase-production-blocks-de_DE-4e3d0764efd4d355ebaed7649f860923.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/languages/theatrebase-production-blocks.pot",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/variations/subsites-query/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/variations/shadow-terms/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/variations/shadow-related-query/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/targetgroup/package.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/duration/edit.js",
+		"/T/figuren/htdocs/content/mu-plugins/Figuren_Theater/src/Network/Taxonomies/TAX_Shadow.php",
+		"/T/figuren/htdocs/content/mu-plugins/Figuren_Theater/src/Network/Post_Types/Post_Type__ft_production.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/languages/theatrebase-production-blocks-de_DE-4bb97c7ed48edc024d37c03c1a5b2bf9.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/languages/theatrebase-production-blocks-de_DE-3e35a061474a46f9bac09f036ea37ff6.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/languages/theatrebase-production-blocks-de_DE.po",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/languages/theatrebase-production-blocks-de_DE.mo",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/theatrebase-production-blocks.pot",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/package.json",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/src/index.js",
+		"/T/figuren/htdocs/content/mu-plugins/Figuren_Theater/src/PluginsRepo/image_source_control_isc.php",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/src/edit.js",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/src/block.json",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/languages/image-source-control-isc-block-de_DE.po",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/package.json",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/languages/image-source-control-isc-block-de_DE-dfbff627e6c248bcb3b61d7d06da9ca9.json",
+		"/T/figuren/htdocs/content/mu-plugins/Figuren_Theater/src/PluginsRepo/ft_network_block_patterns.php",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/languages/image-source-control-isc-block-de_DE-isc-image-source-control-isc-block-editor-script.json",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/languages/image-source-control-isc-block.pot",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/src/save.js",
+		"/T/figuren/htdocs/content/mu-plugins/Figuren_Theater/Figuren_Theater.php",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/build/index.asset.php",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/build/block.json",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/languages/image-source-control-isc-block-de_DE.mo",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/languages/image-source-control-isc-block-de_DE-bb1d7dea005e67527e728d4801f74b61.json",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc/isc.class.php",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc/isc.php",
+		"/T/figuren/htdocs/content/plugins/disable-search/disable-search.php",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/build/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/targetgroup/editor.scss",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/targetgroup/block.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/theatrebase-production-blocks.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/webpack.config.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/duration/index.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/premiere/index.php",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/src/editor.scss",
+		"/T/figuren/htdocs/content/plugins/image-source-control-isc-block/src/style.scss",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/duration/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/premiere/index.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/premiere/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/duration/block.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/duration/deprecations.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/variations/shadow-related/index.js",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/__ft_global_patterns.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/targetgroup/index.js",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/__ft_global/production-page.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/__ft_global/production-subsites-playlist.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/__ft_global/production-page-dark.php",
+		"/T/figuren/htdocs/content/mu-plugins/Figuren_Theater/src/FeaturesRepo/Feature__inszenierungen.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/__ft_global/production-subsites-todo.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/ft-network-block-patterns.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-blocks-blockmanager/src/index.js",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/__ft_global/copyright.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/__ft_global/merch-websfft-and-wp.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/__ft_global/footer-musthave-navigation.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-blocks-blockmanager/ft-network-blocks-blockmanager.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/twentytwentytwo/footer-blog.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/targetgroup/edit.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/utils/pre-suf-fix.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/premiere/edit.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/targetgroup/index.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/utils/constants.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/plugins/document-setting-panel/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/utils/helper.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/premiere/block.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/premiere/deprecations.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/utils/date-select.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/targetgroup/deprecations.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/production-duration.asset.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/duration.asset.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/targetgroup/block.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/duration/index.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/targetgroup/style.scss",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/subsites-query.asset.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/shadow-terms.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-duration/edit.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/variations/production-shadow-terms/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-premiere/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-premiere/edit.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/plugins/document-settings-panel/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-duration/index.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-duration/block.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-duration/save.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-premiere/save.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-duration/deprecations.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-duration/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/variations/production-subsites-query/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-duration/style.scss",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-duration/editor.scss",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-duration/src/save.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-duration/theatrebase-production-duration.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-premiere/date-select.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-premiere/block.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-premiere/settings-panel-plugin.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-premiere/package.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-duration/package.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-subsites-query/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/tb-production-premiere/block.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/tb-production-premiere/index.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/tb-production-premiere/block.json",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/production-shadow-terms/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/tb-production-premiere/index.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/tb-production-premiere.js",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/build/tb-production-premiere/index.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/__ft_global/production-subsites-query.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-subsites/inc/Network/Post_Types/Post_Type__tb_prod_subsite.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/twentytwentytwo/footer-navigation.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/twentytwentytwo/footer-navigation-copyright.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/twentytwentytwo/footer-dark.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/tb-production-query/index.js",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/__ft_global/pages-production-subsites-todo.php",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/.editorconfig",
+		"/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/README.md",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/twentytwentytwo_patterns.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/twentytwentytwo/footer-default.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/twentytwentytwo/footer-logo.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/twentytwentytwo/footer-query-images-title-citation.php",
+		"/T/figuren/htdocs/content/plugins/ft-network-block-patterns/inc/patterns/twentytwentytwo/footer-query-title-citation.php"
+	],
+	"find":
+	{
+		"height": 75.2
+	},
+	"find_in_files":
+	{
+		"height": 217.2,
+		"where_history":
+		[
+			"T:\\figuren\\htdocs\\content\\plugins\\ft-network-blocks-blockmanager"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"msgid \"###",
+			"msgid",
+			"figurentheater",
+			"image-source-control-isc-block",
+			"build/index",
+			"\"",
+			"'",
+			"\"",
+			"gutenberg-i18n-block",
+			"icon",
+			"load_block_table_styles_for_isc_all_shortcode",
+			"humanReadable",
+			"HumanReadable",
+			"newHumanReadable",
+			"meta_value_num",
+			" \t",
+			"settings.attributes",
+			"taxonomy",
+			"subsites-query",
+			"production-subsites-query",
+			"productionShadowRelatedQuery",
+			"productionSubsitesQuery",
+			"ShadowRelatedEngine",
+			"SubsitesQueryEngine",
+			"subsites-query-engine",
+			"twentytwentytwo",
+			"register_block_pattern_category",
+			"getDefaultBlockName",
+			"import { createBlock, getDefaultBlockName } from '@wordpress/blocks';\n",
+			"createBlock",
+			"BlockControls",
+			"ToggleControl",
+			"useEntityProp",
+			"RichText",
+			"getDefaultBlockName",
+			"createBlock",
+			"prefix",
+			"Prefix",
+			"preSufFix",
+			"prefix",
+			"isSelected",
+			"setAttributes",
+			"__experimentalGetSettings",
+			"dateI18n",
+			"TARGETGROUP_META",
+			"metaFieldValue",
+			"TARGETGROUP_META",
+			"updateMetaValue",
+			"metaFieldValue",
+			"value",
+			"metaFieldValue",
+			"duration",
+			"ALLOWED_FORMATS",
+			"DURATION",
+			"Duration",
+			"duration",
+			"'ft_production_shadow'",
+			"'ft_production'",
+			"metaKey",
+			"production-premiere",
+			"theatrebase-production-duration",
+			"production-",
+			"duration",
+			"production-",
+			"production-premiere-settings",
+			"ProductionPremiereDocumentSettingPanel",
+			"MyServerSideRender",
+			"huzu",
+			"pre",
+			"ToggleControl",
+			"pre",
+			"tagName",
+			"omit",
+			"premiere",
+			"'_theatre_base_prod_and_event__duration'",
+			"Premiere",
+			"PREMIERE",
+			"premiere",
+			"../../../build/{{slug}}",
+			"gutenberg-examples",
+			"example-07-slotfills-esnext",
+			"ExamplePluginDocumentSettingPanel",
+			"tb-",
+			"blocks",
+			"tb-",
+			"static_blocks_in",
+			"ftQueryTermShadowedPosts",
+			"tb-production-query",
+			"withForcedImageFill",
+			"'ft_production'",
+			"'tb_prod_subsite'",
+			"'ft_production'",
+			"setBlockCustomClassName",
+			"💕",
+			"\\u002d\\u002d",
+			"global",
+			"this->template",
+			"static",
+			"blocks",
+			"{{slug}}",
+			"'_theatre_base_prod_and_event__premiere'",
+			"query",
+			"production-shadow-terms",
+			"ft_level_shadow",
+			"select",
+			"customPostType",
+			"ft_level_shadow",
+			"192.168.2.163",
+			"isc",
+			"normal",
+			"000000",
+			"Background",
+			"-3rd",
+			"3rd",
+			"open-sans",
+			"background"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/T/styleguide.figuren/htdocs/content/logs/php.debug.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/theatrebase-production-blocks.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5820,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2500,
+								2500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5850.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/duration/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1751,
+								1751
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1425.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/includes/block-editor/blocks/duration/block.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1375,
+								1375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/T/figuren/htdocs/content/plugins/theatrebase-production-blocks/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 244.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.2
+	},
+	"input":
+	{
+		"height": 84.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 153.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 236.399993896
+	},
+	"output.diagnostics":
+	{
+		"height": 208.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "twentytwentytwo-ft-core.sublime-project",
+	"replace":
+	{
+		"height": 79.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"F",
+				"Figuren_Theater\\Figuren_Theater.php"
+			],
+			[
+				"Plugin",
+				"Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			],
+			[
+				"advanced isc",
+				"Figuren_Theater\\src\\FeaturesRepo\\Feature__advanced_isc.php"
+			],
+			[
+				"core_s",
+				"Figuren_Theater\\src\\FeaturesRepo\\UtilityFeature__core__is_core_site.php"
+			],
+			[
+				"Title",
+				"Figuren_Theater\\src\\SiteParts\\TitletagManager.php"
+			],
+			[
+				"/Post_Types/Post_TypesManager.php",
+				"Figuren_Theater\\src\\Network\\Post_Types\\Post_TypesManager.php"
+			],
+			[
+				"wordpre",
+				"Figuren_Theater\\src\\PluginsRepo\\wordpress_seo.php"
+			],
+			[
+				"epo/Feature__ueberregionale_inhalte.php",
+				"Figuren_Theater\\src\\FeaturesRepo\\Feature__ueberregionale_inhalte.php"
+			],
+			[
+				"Admin",
+				"Figuren_Theater\\src\\Network\\Admin_UI\\Admin_UIManager.php"
+			],
+			[
+				"gute",
+				"Figuren_Theater\\src\\PluginsRepo\\gutenberg.php"
+			],
+			[
+				"debug",
+				"T:\\figuren\\htdocs\\content\\logs\\php.debug.log"
+			],
+			[
+				"Pluginsman",
+				"Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			],
+			[
+				"ftnetwor",
+				"Figuren_Theater\\src\\PluginsRepo\\ft_network_block_patterns.php"
+			],
+			[
+				"mana",
+				"Figuren_Theater\\src\\FeaturesRepo\\UtilityFeature__managed_core_options.php"
+			],
+			[
+				"parser-rss-bridge/friends-parser-rss-bridge.ph",
+				"friends-parser-rss-bridge\\friends-parser-rss-bridge.php"
+			],
+			[
+				"Fig",
+				"Figuren_Theater\\Figuren_Theater.php"
+			],
+			[
+				"man",
+				"Figuren_Theater\\src\\FeaturesRepo\\UtilityFeature__managed_core_options.php"
+			],
+			[
+				"wp-admin/edit-form-advanced.php",
+				"wp\\wp-admin\\edit-form-advanced.php"
+			],
+			[
+				"wp-admin/edit-link-form.php",
+				"wp\\wp-admin\\edit-link-form.php"
+			],
+			[
+				"link",
+				"wp\\wp-admin\\link-add.php"
+			],
+			[
+				"link-mana",
+				"wp\\wp-admin\\link-manager.php"
+			],
+			[
+				"managed",
+				"Figuren_Theater\\src\\FeaturesRepo\\UtilityFeature__managed_core_options.php"
+			],
+			[
+				"/wp-includes/blocks.php",
+				"wp\\wp-includes\\blocks.php"
+			],
+			[
+				"post-f",
+				"wp\\wp-includes\\post-formats.php"
+			],
+			[
+				"wp-includes/post-formats.php",
+				"wp\\wp-includes\\post-formats.php"
+			],
+			[
+				"admin.php",
+				"wp\\wp-admin\\admin.php"
+			],
+			[
+				"link.php",
+				"wp\\wp-admin\\link.php"
+			],
+			[
+				"link-add",
+				"wp\\wp-admin\\link-add.php"
+			],
+			[
+				"edit-link-form.php",
+				"wp\\wp-admin\\edit-link-form.php"
+			],
+			[
+				"link-a",
+				"wp\\wp-admin\\link-add.php"
+			],
+			[
+				"Figure",
+				"Figuren_Theater\\Figuren_Theater.php"
+			],
+			[
+				"Figur",
+				"Figuren_Theater\\Figuren_Theater.php"
+			],
+			[
+				"nds-parser-rss-bridge/friends-parser-rss-bridge.php",
+				"friends-parser-rss-bridge\\friends-parser-rss-bridge.php"
+			],
+			[
+				"Figu",
+				"Figuren_Theater\\Figuren_Theater.php"
+			],
+			[
+				"/lib/Bridge.php",
+				"wp-rss-bridge\\includes\\lib\\rss-bridge__original-2018\\lib\\Bridge.php"
+			],
+			[
+				"Posttypesmana",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Post_Types\\Post_TypesManager.php"
+			],
+			[
+				"sunr",
+				"docroot\\content\\sunrise.php"
+			],
+			[
+				"wds",
+				"MU-Plugins\\_ft_vendor\\WDS-Required-Plugins\\wds-required-plugins.php"
+			],
+			[
+				"plugins/wp-super-preload/inc/admin.php",
+				"Plugins\\wp-super-preload\\inc\\admin.php"
+			],
+			[
+				"options-general.php",
+				"docroot\\wp\\wp-admin\\options-general.php"
+			],
+			[
+				"embed_pr",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\embed_privacy.php"
+			],
+			[
+				"class-migration.php",
+				"Plugins\\embed-privacy\\inc\\class-migration.php"
+			],
+			[
+				"AutoDis",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Sync\\AutoDistribute.php"
+			],
+			[
+				"wp_super",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\wp_super_preload.php"
+			],
+			[
+				"puri",
+				"themes\\twentytwentytwo-ft\\styles\\puristic-black-and-white.json"
+			],
+			[
+				"content/sunrise.php",
+				"docroot\\content\\sunrise.php"
+			],
+			[
+				"uper-preload/inc/admin.php",
+				"Plugins\\wp-super-preload\\inc\\admin.php"
+			],
+			[
+				"0",
+				"MU-Plugins\\0-ft_NETWORK__constants.php"
+			],
+			[
+				"wpconfprod",
+				"docroot\\wp-config.production.php"
+			],
+			[
+				"PluginMana",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			],
+			[
+				"Optionsm",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Options\\OptionsManager.php"
+			],
+			[
+				"ter/src/PluginsRepo/wordpress_seo.php",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\wordpress_seo.php"
+			],
+			[
+				"p-includes/option.php",
+				"docroot\\wp\\wp-includes\\option.php"
+			],
+			[
+				"c/integrations/admin/background-indexing-integration.php",
+				"Plugins\\wordpress-seo\\src\\integrations\\admin\\background-indexing-integration.php"
+			],
+			[
+				"FeatureMana",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Features\\FeaturesManager.php"
+			],
+			[
+				"wp-includes/functions.php",
+				"docroot\\wp\\wp-includes\\functions.php"
+			],
+			[
+				"multis",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\multisite_enhancements.php"
+			],
+			[
+				"ync/AutoDistribute.ph",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Sync\\AutoDistribute.php"
+			],
+			[
+				"PluginMna",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			],
+			[
+				"wp-includes/rewrite.php",
+				"docroot\\wp\\wp-includes\\rewrite.php"
+			],
+			[
+				"ordpress-seo/inc/class-rewrite.php",
+				"Plugins\\wordpress-seo\\inc\\class-rewrite.php"
+			],
+			[
+				"PlugMna",
+				"docroot\\content\\mu-plugins\\Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			],
+			[
+				"/gutenberg/lib/pwa.php",
+				"Plugins\\gutenberg\\lib\\pwa.php"
+			],
+			[
+				"ins/preferred-languages/inc/functions.php",
+				"Plugins\\preferred-languages\\inc\\functions.php"
+			],
+			[
+				"Figuren_",
+				"MU-Plugins\\Figuren_Theater\\Figuren_Theater.php"
+			],
+			[
+				"tent/plugins/heartbeat-control/vendor/cmb2/cmb2/init.php",
+				"docroot\\content\\plugins\\heartbeat-control\\vendor\\cmb2\\cmb2\\init.php"
+			],
+			[
+				"format_",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\format_media_titles.php"
+			],
+			[
+				"heartbe",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\heartbeat_control.php"
+			],
+			[
+				"wpconfde",
+				"docroot\\wp-config.default.php"
+			],
+			[
+				"impress",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\impressum.php"
+			],
+			[
+				"wp-includes/l10n.php",
+				"docroot\\wp\\wp-includes\\l10n.php"
+			],
+			[
+				"_geolocation/includes/class-ft_geolocation.php ",
+				"Plugins\\ft_geolocation\\includes\\class-ft_geolocation.php"
+			],
+			[
+				"plugins/ft_geolocation/admin/class-ft_geolocation-wp_lang.php ",
+				"Plugins\\ft_geolocation\\admin\\class-ft_geolocation-wp_lang.php"
+			],
+			[
+				"sunrise",
+				"docroot\\content\\sunrise.php"
+			],
+			[
+				".hta",
+				"docroot\\.htaccess"
+			],
+			[
+				"Site_Set",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Setup\\Site_Setup.php"
+			],
+			[
+				"ft newt rew",
+				"MU-Plugins\\ft_NETWORK__rewrite-rules.php"
+			],
+			[
+				"des/classes/InternalConnections/NetworkSiteConnection.php",
+				"Plugins\\distributor\\includes\\classes\\InternalConnections\\NetworkSiteConnection.php"
+			],
+			[
+				"sunri",
+				"docroot\\content\\sunrise.php"
+			],
+			[
+				"wp-includes/class-wp-query.php",
+				"docroot\\wp\\wp-includes\\class-wp-query.php"
+			],
+			[
+				"wpconfloc",
+				"docroot\\wp-config.local.php"
+			],
+			[
+				"header",
+				"twentytwenty\\header.php"
+			],
+			[
+				"Site_",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Setup\\Site_Setup.php"
+			],
+			[
+				".ht",
+				"docroot\\content\\uploads\\.htaccess"
+			],
+			[
+				"wpconflo",
+				"docroot\\wp-config.local.php"
+			],
+			[
+				"wpcon",
+				"docroot\\wp-config.default.php"
+			],
+			[
+				"wp_su",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\wp_super_preload.php"
+			],
+			[
+				"insze",
+				"MU-Plugins\\Figuren_Theater\\src\\FeaturesRepo\\Feature__inszenierungen.php"
+			],
+			[
+				"wp_s",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\wp_super_preload.php"
+			],
+			[
+				"embed_pri",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\embed_privacy.php"
+			],
+			[
+				"cache_enab",
+				"MU-Plugins\\Figuren_Theater\\src\\PluginsRepo\\cache_enabler.php"
+			],
+			[
+				"datenschu",
+				"MU-Plugins\\Figuren_Theater\\src\\FeaturesRepo\\Feature__datenschutz.php"
+			],
+			[
+				"bitb",
+				"docroot\\bitbucket-pipelines.yml"
+			],
+			[
+				"synt t",
+				"MU-Plugins\\Figuren_Theater\\src\\FeaturesRepo\\UtilityFeature__sync_to_root.php"
+			],
+			[
+				"PluginMan",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			],
+			[
+				"wp-con",
+				"docroot\\wp-config.php"
+			],
+			[
+				"wpconfenv",
+				"docroot\\wp-config.env.php"
+			],
+			[
+				"wpconde",
+				"docroot\\wp-config.default.php"
+			],
+			[
+				"/ProxiedSitePartsCollectionAbstract.php ",
+				"MU-Plugins\\Figuren_Theater\\src\\SiteParts\\ProxiedSitePartsCollectionAbstract.php"
+			],
+			[
+				"Figuren_TH",
+				"MU-Plugins\\Figuren_Theater\\Figuren_Theater.php"
+			],
+			[
+				"Required-Plugins/wds-required-plugins.php",
+				"MU-Plugins\\_ft_vendor\\WDS-Required-Plugins\\wds-required-plugins.php"
+			],
+			[
+				"producshad",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Taxonomies\\Taxonomy__ft_production_shadow.php"
+			],
+			[
+				"taxft_geo",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Taxonomies\\Taxonomy__ft_geolocation.php"
+			],
+			[
+				"ft_prod",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Post_Types\\Post_Type__ft_production.php"
+			],
+			[
+				"blockmana",
+				"Plugins\\ft-network-blocks-blockmanager\\ft-network-blocks-blockmanager.php"
+			],
+			[
+				"ftnetworkpatter",
+				"Plugins\\ft-network-block-patterns\\ft-network-block-patterns.php"
+			],
+			[
+				".htac",
+				"docroot\\.htaccess"
+			],
+			[
+				"dor/cmb2/cmb2/includes/rest-api/CMB2_REST.php",
+				"Plugins\\heartbeat-control\\vendor\\cmb2\\cmb2\\includes\\rest-api\\CMB2_REST.php"
+			],
+			[
+				"PluginMa",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			],
+			[
+				"ed-Plugins/wds-required-plugins.php",
+				"MU-Plugins\\_ft_vendor\\WDS-Required-Plugins\\wds-required-plugins.php"
+			],
+			[
+				"0netw",
+				"MU-Plugins\\0-ft_NETWORK__constants.php"
+			],
+			[
+				"wds-",
+				"MU-Plugins\\_ft_vendor\\WDS-Required-Plugins\\wds-required-plugins.php"
+			],
+			[
+				"xtended-cpts/src/PostTypeAdmin.php",
+				"MU-Plugins\\_ft_vendor\\extended-cpts\\src\\PostTypeAdmin.php"
+			],
+			[
+				"PLuginMana",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			],
+			[
+				"wp-config.php",
+				"docroot\\wp-config.php"
+			],
+			[
+				"p-db-backup/wp-db-backup.php",
+				"Plugins\\wp-db-backup\\wp-db-backup.php"
+			],
+			[
+				"ft_feat",
+				"MU-Plugins\\Figuren_Theater\\src\\Coresites\\Post_Types\\Post_Type__ft_feature.php"
+			],
+			[
+				"class ft_salespub",
+				"f.t SALES Plugin\\public\\class-ft_sales-public.php"
+			],
+			[
+				"s/block-supports/duotone.php",
+				"docroot\\wp\\wp-includes\\block-supports\\duotone.php"
+			],
+			[
+				"nicht",
+				"MU-Plugins\\Figuren_Theater\\src\\FeaturesRepo\\Feature__nicht_oeffentliche_probe.php"
+			],
+			[
+				"ncludes/class-wp-list-util.php",
+				"docroot\\wp\\wp-includes\\class-wp-list-util.php"
+			],
+			[
+				"Plugin M",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			],
+			[
+				"themes.php",
+				"docroot\\wp\\wp-admin\\themes.php"
+			],
+			[
+				"core_is",
+				"MU-Plugins\\Figuren_Theater\\src\\FeaturesRepo\\UtilityFeature__core__is_core_site.php"
+			],
+			[
+				"synct",
+				"MU-Plugins\\Figuren_Theater\\src\\FeaturesRepo\\UtilityFeature__sync_to_root.php"
+			],
+			[
+				"wp-better-emails/wpbe.php",
+				"Plugins\\wp-better-emails\\wpbe.php"
+			],
+			[
+				"PluginsMan",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			],
+			[
+				"PluginsMana",
+				"MU-Plugins\\Figuren_Theater\\src\\Network\\Plugins\\PluginsManager.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Vagrants/vvv-apache/www/zoo-halle.dev/zoo-halle.dev.sublime-project"
+			]
+		],
+		"width": 932.0
+	},
+	"select_symbol":
+	{
+		"height": 448.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 728.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 567.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
