@@ -29,7 +29,12 @@
 		}
 	],
 	"require": {
-        "composer/installers": "^1.0",
+        "composer/installers": "^2",
 		"wpackagist-theme/twentytwentytwo": "*"
+	},
+	"config": {
+		"allow-plugins": {
+			"composer/installers": true
+		}
 	}
 }
